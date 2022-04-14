@@ -13,6 +13,7 @@ func main() {
 			"dog":     "lei a",
 			"person":  "hyowon",
 			"cup":     "ramyeon",
+			"height":  160,
 		})
 	})
 
