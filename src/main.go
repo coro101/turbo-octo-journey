@@ -9,10 +9,11 @@ func main() {
 	r := gin.Default()
 	r.GET("/ping", func(c *gin.Context) {
 		c.JSON(http.StatusOK, gin.H{
-			"message":    "pong!!!!",
-			"add_person": "hyowon",
-			"name":       "mk.kwon",
-			"add_age":    "100세",
+			"message": "pong!!!!",
+			"person":  "hyowon",
+			"name":    "mk.kwon",
+			"age":     "100세",
+			"company": "indent",
 		})
 	})
 
