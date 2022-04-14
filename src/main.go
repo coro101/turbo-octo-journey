@@ -12,6 +12,7 @@ func main() {
 			"message":    "pong!!!!",
 			"add_person": "hyowon",
 			"name":       "mk.kwon",
+			"add_age":    "100세",
 		})
 	})
 
