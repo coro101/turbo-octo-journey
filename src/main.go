@@ -14,6 +14,7 @@ func main() {
 			"name":    "mk.kwon",
 			"age":     "100세",
 			"company": "indent",
+			"color":      "yellow",
 		})
 	})
 
