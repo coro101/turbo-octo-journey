@@ -11,6 +11,7 @@ func main() {
 		c.JSON(http.StatusOK, gin.H{
 			"message":    "pong!!!!",
 			"add_person": "hyowon",
+			"add_age":    "100세",
 		})
 	})
 
