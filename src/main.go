@@ -12,6 +12,7 @@ func main() {
 			"message": "pong!!!!",
 			"dog":     "lei a",
 			"person":  "hyowon",
+			"cup":     "ramyeon",
 		})
 	})
 
